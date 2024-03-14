@@ -1,0 +1,3 @@
+from demo import chai
+
+chai("ginger_tea")
